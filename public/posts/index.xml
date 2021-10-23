@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on kolislab</title>
+    <link>http://kolislab.io/posts/</link>
+    <description>Recent content in Posts on kolislab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Oct 2021 16:50:50 +0200</lastBuildDate><atom:link href="http://kolislab.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world</title>
+      <link>http://kolislab.io/posts/my-first-post/</link>
+      <pubDate>Sat, 23 Oct 2021 16:50:50 +0200</pubDate>
+      
+      <guid>http://kolislab.io/posts/my-first-post/</guid>
+      <description>hello world    served by hugo</description>
+    </item>
+    
+  </channel>
+</rss>
