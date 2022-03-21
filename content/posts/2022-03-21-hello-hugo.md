@@ -10,6 +10,6 @@ categories = []
 externalLink = ""
 series = []
 +++
-# hello world
+# hello Front
 
-served by hugo
+Created by Front Matter
